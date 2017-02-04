@@ -17,6 +17,8 @@ start()
 stop()
 
 ### EVENTS
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/eth-block-tracker.svg)](https://greenkeeper.io/)
 block <-- every block in order
 fork  <-- common root of fork
 force <-- latest block was forced
